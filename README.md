@@ -1,40 +1,31 @@
 # Project Title 🚀
-Documentation_page
+Landing_page
+
 ## Project Description 📝
 
-> this project is useful for who want to now some basic information about JS.
-Examples:
-
-- When I started learning html and CSS at the first I searched about those.
-- It can give important and basic info about JS.
-- whith this project I learned what is JS and how it is useful.
+> this project is useful for who want to creat a website for there works.
 
 ```html
 <!--  </header>
-    <li class="li">Writing into an alert box, using window.alert().</li>
-    <li class="li">Writing into the browser console, using console.log().</li> -->
+     <body>
+    <div id="header-option">
+      <header id="header">
+        <div class="logo">
+          <img id="header-img" src="logoo.png" alt="best online logo"/>
 ```
 
 ```css
 /* 
-.li {
-  font-family: Arial, Helvetica, sans-serif;
-}
- */
-```
 
-```javascript
-//  class Car {
-        constructor(name, year) {
-          this.name = name;
-          this.year = year;
-        }You can also include JavaScript code snippets.
-```
+@media screen and (max-width: 600px) {
+  body {
+    background-color: rgb(72, 81, 84);
+    display: block;
+ */
+
 
 ## Demo 📸
-
-
-![Demo](pic.png)
+![Demo](pro.png)
 
 ## Technologies Used 🛠️
 
@@ -69,7 +60,6 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 Examples:
 
 - Feature 1- change background color when give it wihgt
-- change background color when chose a nav
 
 
 ## Author 👩‍💻
