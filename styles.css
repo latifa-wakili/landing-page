@@ -45,7 +45,6 @@ header nav ul li {
 .nav-link {
   text-decoration: none;
   margin: 30px;
-  text-decoration: none;
   font-size: larger;
   color: black;
 }
@@ -107,7 +106,7 @@ form #submit:hover {
 }
 
 .video {
-  width:100%;
+  width: 100%;
   height: 300px;
   display: flex;
   justify-content: center;
@@ -117,7 +116,7 @@ form #submit:hover {
 
 iframe {
   width: 560px;
-  height: 315px;  
+  height: 315px;
 }
 
 .footer-section {
@@ -155,16 +154,16 @@ iframe {
   border: none;
   position: relative;
   bottom: 90px;
-  left : 110px;
+  left: 110px;
   cursor: pointer;
 }
 
 .footer-info p {
-  width: 180px ;
+  width: 180px;
   height: 300px;
   position: relative;
   left: 70px;
-  top: 20px;  
+  top: 20px;
   line-height: 30px;
   text-align: center;
 }
@@ -203,5 +202,5 @@ i {
   body {
     background-color: rgb(72, 81, 84);
       display: block;
-   }
- }
+    }
+  }
