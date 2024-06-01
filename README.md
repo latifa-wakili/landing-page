@@ -6,22 +6,7 @@ Landing_page
 > this project is useful for who want to creat a website for there works.
 
 ```html
-<!--  </header>
-     <body>
-    <div id="header-option">
-      <header id="header">
-        <div class="logo">
-          <img id="header-img" src="logoo.png" alt="best online logo"/> 
-```
 
-```css
-/* 
-
-@media screen and (max-width: 600px) {
-  body {
-    background-color: rgb(72, 81, 84);
-    display: block;
- */
 ```
 
 ## Demo 📸
@@ -38,9 +23,9 @@ Landing_page
 Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
 
 ```bash
-# git.
+# git.git@github.com:latifa-wakili/landing-page.git cd landing-page
 ```
-git@github.com:latifa-wakili/landing-page.git cd landing-page
+
 ```bash
 # github.
 ```
