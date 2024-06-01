@@ -23,11 +23,11 @@ Landing_page
 Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
 
 ```bash
-# git.git@github.com:latifa-wakili/landing-page.git cd landing-page
+# git@github.com:latifa-wakili/landing-page.git cd landing-page
 ```
 
 ```bash
-# github.
+# cd landing-page
 ```
 
 ```bash
