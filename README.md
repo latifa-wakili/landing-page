@@ -1,15 +1,12 @@
 # Project Title 🚀
-Landing_page
+Portfolio_Webpage
 
 ## Project Description 📝
 
-> this project is useful for who want to creat a website for there works.
-
-```html
-
-```
+> this project is useful for who want to creat a Portfolio_Webpage for there works.
 
 ## Demo 📸
+https://latifa-wakili.github.io/landing-page/
 ![Demo](pro.png)
 
 ## Technologies Used 🛠️
@@ -23,11 +20,11 @@ Landing_page
 Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
 
 ```bash
-# git@github.com:latifa-wakili/landing-page.git cd landing-page
+# git@github.com:latifa-wakili/-Portfolio_Webpage.git
 ```
 
 ```bash
-# cd landing-page
+# cd Portfolio_Webpage
 ```
 
 ```bash
@@ -41,10 +38,7 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 ```
 
 ## Features ⭐
-
-Examples:
-
-- Feature 1- change background color when give it wihgt
+-responsive
 
 
 ## Author 👩‍💻
@@ -54,4 +48,3 @@ Examples:
 
 ## Contributing 🤝
 for team working at first you should creat an organization on git hub nex you can creat pull_request on your project to shear whith your team and work on it together.
-
